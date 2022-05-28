@@ -1,3 +1,3 @@
 # odin-recipes
 
-# I'm actually not entirely sure what this will be. Presumably something about making a recipe book using HTML.
+# I learned how to make a basic HTML page and how to work the basics of Git with it.
